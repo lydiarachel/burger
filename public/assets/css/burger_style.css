@@ -1,0 +1,31 @@
+body, html {
+    background-image: url("../img/dani-king-261235-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+    opacity: 0.9;
+  }
+
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: #68c8d9;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
