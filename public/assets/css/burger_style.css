@@ -19,6 +19,7 @@ ul {
   background: #faebd7;
   opacity: 0.9;
   margin-top: 50%;
+  border-radius: 25px;
 }
 
 li {
@@ -36,19 +37,10 @@ li {
     margin: 0 auto; 
   }
 
-  .label {
-    font-weight: bold;
-  }
-  
   .create-update-form {
-    /* padding: 5px;
-    margin: 5px; */
     background: #faebd7;
     border-radius: 25px;
     border: #ffc930 2px solid; 
   }
   
-  .form-group {
-    margin-bottom: 5px;
-  }
-  
+ 
