@@ -4,7 +4,7 @@ In this activity, I've created an application that will create a new burger or c
 
 ## Screenshots and Technology Used
 
-![Bamazon MySQL Pic](/assets/img/screenshot.png)
+![Eat Da Burger Pic](/public/assets/img/screenshot.png)
 
 Technology Used: 
 
