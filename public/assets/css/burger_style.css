@@ -1,28 +1,51 @@
 body, html {
-    background-image: url("../img/dani-king-261235-unsplash.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.466), rgba(0, 0, 0, 0.432)), url("../img/dani-king-261235-unsplash.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     height: 100vh;
+    font-family: 'Shrikhand', cursive;
 
+}
+
+h1, h3{
+  color: #ff340d;
+  text-align: center;
+  text-shadow: 2px 2px #fff;
+}
+
+ul {
+  list-style-type: none; 
+  background: #faebd7;
+  opacity: 0.9;
+  margin-top: 50%;
 }
 
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
-    opacity: 0.9;
+
   }
 
+  form {
+    padding: 5px;
+  }
   
+  .btn {
+    display: block; 
+    margin: 0 auto; 
+  }
+
   .label {
     font-weight: bold;
   }
   
   .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: #68c8d9;
+    /* padding: 5px;
+    margin: 5px; */
+    background: #faebd7;
+    border-radius: 25px;
+    border: #ffc930 2px solid; 
   }
   
   .form-group {
