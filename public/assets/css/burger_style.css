@@ -20,6 +20,7 @@ ul {
   opacity: 0.9;
   margin-top: 50%;
   border-radius: 25px;
+  border: #ffc930 2px solid; 
 }
 
 li {
